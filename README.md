@@ -31,7 +31,7 @@ Testing and Optimization:
 
 Test the system with a diverse set of users to ensure its effectiveness across different gestures and users.
 Optimize the model and system based on user feedback and performance metrics.
-User Interface:
+User Interface
 
 Design a user interface that allows users to calibrate, customize, or turn on/off the gesture control feature.
 Accessibility Considerations:
